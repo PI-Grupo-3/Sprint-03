@@ -5,6 +5,7 @@ Além disso, também estamos desenvolvend o pitch da apresentção final
 
 **Check list da entrega**
 - [X] Conteúdo de Laboratório de Hardware
+- [X] Conteúdo de Lógica de Programação
 - [X] Configurar Buckets AWS S3
 - [X] Registrar
 - [X] Minhas disciplinas
@@ -18,6 +19,8 @@ Além disso, também estamos desenvolvend o pitch da apresentção final
 ## Objetivos Concluídos
 
 [Conteúdo da disciplina de Laboratório de Hardware](https://github.com/PI-Grupo-3/prot-tipo/blob/master/Conte%C3%BAdo%20das%20Disciplinas/Hardware.pdf)
+
+[Conteúdo da disciplina de Lógica de Programação]()
 
 
 

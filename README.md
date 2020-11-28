@@ -17,7 +17,7 @@ Além disso, também estamos desenvolvend o pitch da apresentção final
 
 ## Objetivos Concluídos
 
-[Conteúdo da disciplina de Arquitetura e Organização de Computadores]()
+[Conteúdo da disciplina de Laboratório de Hardware](https://github.com/PI-Grupo-3/prot-tipo/blob/master/Conte%C3%BAdo%20das%20Disciplinas/Hardware.pdf)
 
 
 

@@ -17,6 +17,7 @@ Além disso, também estamos desenvolvend o pitch da apresentção final
 
 ## Objetivos Concluídos
 
+[Conteúdo da disciplina de Arquitetura e Organização de Computadores]()
 
 
 

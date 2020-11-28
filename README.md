@@ -1,6 +1,5 @@
 ## Objetivos planejados
-Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a modelagem de dados, desenvolver o backend, fazer a integração com o frontend e desenvolver a funcionalidade customizada, que será o envio de cupom de desconto, válido para a primeira compra, para quem se cadastrar no site, e finalizar as tarefas que ficaram pendentes na sprint 02 
-Além disso, também estamos desenvolvendo o pitch da apresentção final
+Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a modelagem de dados, desenvolver o backend, fazer a integração com o frontend e desenvolver a funcionalidade customizada, que será o envio de cupom de desconto, válido para a primeira compra, para quem se cadastrar no site, e finalizar as tarefas que ficaram pendentes na sprint 02. Além disso, também estamos desenvolvendo o pitch da apresentção final
 
 
 **Check list da entrega**

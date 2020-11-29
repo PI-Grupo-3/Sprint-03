@@ -31,7 +31,7 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 ## Site
 
-Os vídeos com a demonstração do site estão no dropbox, e a visualização online diminui a qualidade. Para melhor vizualição, baixar os vídeos
+Os vídeos com a demonstração do site estão no dropbox, a visualização online diminui a qualidade. Para melhor vizualização, baixar os vídeos
 
 1. [Administrador](https://www.dropbox.com/s/9rosbysvngz9tix/2020-11-29%2016-18-51.mkv?dl=0)
 

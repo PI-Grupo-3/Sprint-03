@@ -35,18 +35,18 @@ Os vídeos com a demonstração do site estão no dropbox, e a visualização on
 
 1. [Administrador](https://www.dropbox.com/s/9rosbysvngz9tix/2020-11-29%2016-18-51.mkv?dl=0)
 
-  **Funcionalidades:**
-  * Dashboard com indicadores
-  * Cadastrar, editar e excluir disciplinas
-  * Cadastrar novos administradores 
-  * Editar seu perfil de administrador
+   **Funcionalidades:**
+   * Dashboard com indicadores
+   * Cadastrar, editar e excluir disciplinas
+   * Cadastrar novos administradores 
+   * Editar seu perfil de administrador
 
 
 2. [Usuário]
 
-**Funcionalidades:**
+   **Funcionalidades:**
 
 3. [Funcionalidade customizada]
 
-Enviar cupom de desconto para a primeira compra para quem se cadastrar
+   Enviar cupom de desconto para a primeira compra para quem se cadastrar
 

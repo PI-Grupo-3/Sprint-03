@@ -27,6 +27,10 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 [Repositório com os códigos do site](https://github.com/PI-Grupo-3/e-scholar)
 
-[Demonstração do site]()
+
+
+## Demonstração do Site
+
+[Administrador](https://www.dropbox.com/sh/bphy6rojxogjijr/AACOZYhFM9N5wKOSrHpxVmK5a?dl=0)
 
 

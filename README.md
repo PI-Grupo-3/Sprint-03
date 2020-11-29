@@ -31,7 +31,7 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 ## Demonstração do Site
 
-[Administrador](https://www.dropbox.com/sh/bphy6rojxogjijr/AACOZYhFM9N5wKOSrHpxVmK5a?dl=0)
+[Administrador](https://www.dropbox.com/s/la693m5rsnsikjc/Administrador.mp4?dl=0)
 
 **Funcionalidades:**
 * Dashboard com indicadores

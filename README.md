@@ -31,22 +31,22 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 ## Site
 
-Vídeos com a demonstração do site, que estão no dropbox. Visualizar online diminui a resolução, a visualização é melhor se baixar vídeo
+Os vídeos com a demonstração do site estão no dropbox, e a visualização online diminui a qualidade. Para melhor vizualição, baixar os vídeos
 
-* [Administrador](https://www.dropbox.com/s/9rosbysvngz9tix/2020-11-29%2016-18-51.mkv?dl=0)
+1. [Administrador](https://www.dropbox.com/s/9rosbysvngz9tix/2020-11-29%2016-18-51.mkv?dl=0)
 
   **Funcionalidades:**
-* Dashboard com indicadores
-* Cadastrar, editar e excluir disciplinas
-* Cadastrar novos administradores 
-* Editar seu perfil de administrador
+  * Dashboard com indicadores
+  * Cadastrar, editar e excluir disciplinas
+  * Cadastrar novos administradores 
+  * Editar seu perfil de administrador
 
 
-[Usuário]
+2. [Usuário]
 
 **Funcionalidades:**
 
-[Funcionalidade customizada]
+3. [Funcionalidade customizada]
 
 Enviar cupom de desconto para a primeira compra para quem se cadastrar
 

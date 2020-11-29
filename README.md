@@ -32,7 +32,7 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 Os vídeos com a demonstração do site estão no dropbox, a visualização online diminui a qualidade. Para melhor vizualização, baixar os vídeos
 
-1. [Administrador](hhttps://www.dropbox.com/s/17nggg2d74vav0n/Adm.mp4?dl=0)
+1. [Administrador](https://www.dropbox.com/s/17nggg2d74vav0n/Adm.mp4?dl=0)
 
    **Funcionalidades:**
    * Dashboard com indicadores

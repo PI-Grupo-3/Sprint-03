@@ -25,6 +25,10 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 [Demonstração do site]()
 
+[APK do jogo de lógica de programação](https://github.com/PI-Grupo-3/prot-tipo/blob/master/APK%20dos%20jogos/Lightbot%20Code%20Hour_v1.1.6_apkpure.com.apk)
+
+[APK do jogo de raciocínio lógico](https://github.com/PI-Grupo-3/prot-tipo/blob/master/APK%20dos%20jogos/Problemas%20de%20l%C3%B3gica_v1.0.4_apkpure.com.apk)
+
 
 
 

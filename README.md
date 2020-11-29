@@ -40,3 +40,11 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 * Editar seu perfil de administrador
 
 
+[Usuário]
+
+**Funcionalidades:**
+
+[Funcionalidade customizada]
+
+Enviar cupom de desconto para a primeira compra para quem se cadastrar
+

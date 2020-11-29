@@ -35,7 +35,7 @@ Vídeos com a demonstração do site, que estão no dropbox. Visualizar online d
 
 * [Administrador](https://www.dropbox.com/s/9rosbysvngz9tix/2020-11-29%2016-18-51.mkv?dl=0)
 
-**Funcionalidades:**
+  **Funcionalidades:**
 * Dashboard com indicadores
 * Cadastrar, editar e excluir disciplinas
 * Cadastrar novos administradores 

@@ -29,9 +29,11 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 
 
-## Demonstração do Site
+## Site
 
-[Administrador](https://www.dropbox.com/s/9rosbysvngz9tix/2020-11-29%2016-18-51.mkv?dl=0)
+Vídeos com a demonstração do site, que estão no dropbox. Visualizar online diminui a resolução, a visualização é melhor se baixar vídeo
+
+* [Administrador](https://www.dropbox.com/s/9rosbysvngz9tix/2020-11-29%2016-18-51.mkv?dl=0)
 
 **Funcionalidades:**
 * Dashboard com indicadores

@@ -10,7 +10,6 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 - [X] Minhas disciplinas
 - [X] Modelagem de dados
 - [X] Integração
-- [ ] Funcionalidade customizada
 - [X] Pitch da apresentação final
 
 
@@ -42,11 +41,17 @@ Os vídeos com a demonstração do site estão no dropbox, a visualização onli
    * Editar seu perfil de administrador
 
 
-2. [Usuário]
+2. [Usuário]()
 
    **Funcionalidades:**
+   * Cadastrar-se no site
+   * Editar perfil
+   * Adicionar ao carrinho de compras
+   * Adicionar à lista de favoritos
+   * Comprar
+   
 
-3. [Funcionalidade customizada]
+3. [Funcionalidade customizada]()
 
    Enviar cupom de desconto para a primeira compra para quem se cadastrar
 

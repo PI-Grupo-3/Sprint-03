@@ -43,7 +43,7 @@ Os vídeos com a demonstração do site estão no dropbox, a visualização onli
 
 2. [Usuário]()
 
-   **Funcionalidades:**
+    **Funcionalidades:**
    * Cadastrar-se no site
    * Editar perfil
    * Adicionar ao carrinho de compras

@@ -32,7 +32,8 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 ## Demonstração do Site
 
 [Administrador](https://www.dropbox.com/sh/bphy6rojxogjijr/AACOZYhFM9N5wKOSrHpxVmK5a?dl=0)
-Funcionalidades:
+
+**Funcionalidades:**
 * Dashboard com indicadores
 * Cadastrar, editar e excluir disciplinas
 * Cadastrar novos administradores 

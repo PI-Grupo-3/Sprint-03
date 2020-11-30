@@ -26,7 +26,7 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 
 [Repositório com os códigos do site](https://github.com/PI-Grupo-3/e-scholar)
 
-
+[Demonstração do jogo de lógica de programação](https://www.dropbox.com/s/wh3rt2cvfg83iwu/Jogo%20l%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.3gpp?dl=0)
 
 ## Site
 

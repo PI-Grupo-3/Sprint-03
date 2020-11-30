@@ -51,7 +51,7 @@ Os vídeos com a demonstração do site estão no dropbox, a visualização onli
    * Comprar
    
 
-3. [Funcionalidade customizada]()
+3. [Funcionalidade customizada](https://github.com/PI-Grupo-3/prot-tipo/tree/master/src/Cupom%20de%20desconto)
 
    Enviar cupom de desconto para a primeira compra para quem se cadastrar
 

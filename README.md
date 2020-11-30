@@ -41,7 +41,7 @@ Os vídeos com a demonstração do site estão no dropbox, a visualização onli
    * Editar seu perfil de administrador
 
 
-2. [Usuário]()
+2. [Usuário](https://www.dropbox.com/s/d420qolq4oo4zic/Usu%C3%A1rio.mp4?dl=0)
 
     **Funcionalidades:**
    * Cadastrar-se no site

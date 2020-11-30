@@ -10,7 +10,7 @@ Para essa sprint planejamos terminar a tela Minhas Disciplinas, realizar a model
 - [X] Minhas disciplinas
 - [X] Modelagem de dados
 - [X] Integração
-- [X] Pitch da apresentação final
+- [ ] Pitch da apresentação final
 
 
 
